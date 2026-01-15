@@ -47,6 +47,6 @@ RestauYou is an Android-based application designed to streamline and simplify re
 ---
 
 ## 👥 Contributors
-*   Minh Khang Nguyen (T00752041) [cite: 4]
-*   Sumnath Das Biraz (T00724044) [cite: 4]
-*   Ramandeep Kaur (T00742772) [cite: 4]
+*   Minh Khang Nguyen (T00752041) 
+*   Sumnath Das Biraz (T00724044) 
+*   Ramandeep Kaur (T00742772) 
